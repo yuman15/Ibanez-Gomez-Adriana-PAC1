@@ -1,0 +1,40 @@
+	SURGERY	AGE	GENDER	Group
+1	by pass	27	F	1
+2	by pass	19	F	2
+3	by pass	42	F	1
+4	by pass	37	F	2
+5	tubular	42	F	1
+6	by pass	24	F	2
+7	tubular	33	F	1
+8	tubular	55	F	1
+9	tubular	40	F	1
+10	tubular	47	M	1
+11	tubular	33	M	1
+12	by pass	57	F	2
+13	by pass	56	F	1
+14	by pass	45	F	1
+15	by pass	55	F	1
+16	by pass	39	F	1
+17	by pass	29	F	1
+18	by pass	27	F	1
+19	by pass	41	F	2
+20	by pass	46	F	1
+21	by pass	41	F	2
+22	by pass	44	F	2
+23	by pass	35	F	2
+24	by pass	58	F	2
+25	by pass	37	F	2
+26	by pass	46	F	1
+27	tubular	42	F	1
+28	tubular	59	F	1
+29	tubular	55	F	2
+30	by pass	46	M	1
+31	by pass	39	M	2
+32	by pass	33	M	1
+33	by pass	38	M	2
+34	tubular	37	M	1
+35	tubular	39	M	2
+36	tubular	35	M	1
+37	by pass	46	M	2
+38	tubular	41	M	1
+39	by pass	26	M	1
